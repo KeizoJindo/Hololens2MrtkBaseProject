@@ -9,6 +9,7 @@ Mixed Reality Toolkit(MRTK)の初期設定済みのUnityプロジェクトです
 |  Mixed Reality Toolkit Standard Assets  |  2.7.3  |
 |  Mixed Reality Toolkit Tools  |  2.7.3  |
 |  Mixed Reality OpenXR Plugin  |  1.2.1  |
+|  Microsoft Spatial Audio  |  1.0.246  |
 
 ## 2. 初期設定内容
 ### (1) Project Setting
