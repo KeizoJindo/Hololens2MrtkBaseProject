@@ -32,5 +32,5 @@ Holographic Remoting remote appを利用した時のために、Camera Setting�
 GitHubからダウンロードして初期起動した際に、以下の設定が消えていると思いますので確認ください。
 ### (1) Build Settings
 Universal Windows Platformを選択し、Switch Platformを押下してください。
-### (2) 
+### (2) Input Debugger
 Play Modeにした際に、「Lock Input to Game View in order for tracked pose driver to work in editor playmode.」というエラーが発生した場合は、Window -> Analysis -> Input Debuggerを開き、OptionsからLock Input to Game Viewを選択してください。
